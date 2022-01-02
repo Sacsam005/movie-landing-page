@@ -32,6 +32,10 @@ body {
   color: #0083b0;
 }
 
+.left-menu-icon.fas {
+  color: #0083b0;
+}
+
 .menu-container {
   flex: 6;
 }
